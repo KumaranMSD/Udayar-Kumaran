@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Udayar Kumaran</h1>
 <h3 align="center">ENGINEER FORGING SKILLS!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaranmsd&label=Profile%20views&color=0e75b6&style=flat" alt="kumaranmsd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumaranmsd" alt="kumaranmsd" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Python**
