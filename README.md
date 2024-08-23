@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Udayar Kumaran</h1>
 <h3 align="center">ENGINEER FORGING SKILLS!</h3>
-- 🌱 I’m currently learning **JavaScript**
-
-- 💬 Ask me about **Python**
+- 🌱 I learnt **JavaScript, Python, MySQL, HTML & CSS**
 
 - 📫 How to reach me **judayarkumaran@gmail.com**
 
